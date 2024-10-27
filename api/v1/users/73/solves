@@ -1,1 +1,0 @@
-{"success": true, "data": [{"id": 503, "user": {"id": 73, "name": "BaddBarik"}, "type": "correct", "date": "2024-10-26T18:17:47.322217+00:00", "challenge": {"id": 6, "name": "Intelligence Agency", "value": 500, "category": "forensics"}, "team": null, "challenge_id": 6}], "meta": {"count": 1}}
