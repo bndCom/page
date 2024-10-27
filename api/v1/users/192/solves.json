@@ -1,0 +1,1 @@
+{"success": true, "data": [{"id": 381, "user": {"id": 192, "name": "letstry"}, "type": "correct", "date": "2024-10-26T15:34:52.148496+00:00", "challenge": {"id": 5, "name": "trace", "value": 497, "category": "forensics"}, "team": null, "challenge_id": 5}], "meta": {"count": 1}}
